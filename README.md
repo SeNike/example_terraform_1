@@ -64,6 +64,8 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 
 ![img](https://github.com/SeNike/Study_24/blob/main/03.Terraform/6.png)
 
+[Скрипт Terraform](https://github.com/SeNike/example_terraform_1/blob/main/main.tf)
+
 ### Задание 3*
 1. Установите [opentofu](https://opentofu.org/)(fork terraform с лицензией Mozilla Public License, version 2.0) любой версии
 2. Попробуйте выполнить тот же код с помощью ```tofu apply```, а не terraform apply.
