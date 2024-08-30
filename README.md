@@ -73,4 +73,4 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 ![img](https://github.com/SeNike/Study_24/blob/main/03.Terraform/8.png)
 
 Серсия установленного OpenTofu не соответствовала минимальной версии в main.tf
-После уменьшения версии до 1.8.1 в скрипте tofu apply прошел успешно.
+После уменьшения версии до 1.8.1 в скрипте, tofu apply прошел успешно.
