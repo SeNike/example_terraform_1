@@ -30,7 +30,6 @@
 
 8. Выполните код. В качестве ответа приложите: исправленный фрагмент кода и вывод команды ```docker ps```.
 
-ОТВЕТ:
 ![img](https://github.com/SeNike/Study_24/blob/main/03.Terraform/2.png)
 
 ![img](https://github.com/SeNike/Study_24/blob/main/03.Terraform/3.png)
