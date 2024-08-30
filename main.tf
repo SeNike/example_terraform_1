@@ -11,7 +11,7 @@ terraform {
 
 
 variable "ssh_conn" {
-  description = "name of VM user"
+  description = "SSH connection"
   type        = string
 }
 
